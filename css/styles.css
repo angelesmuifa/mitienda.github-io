@@ -76,7 +76,7 @@ li{
     color: inherit;
 }
 .header_inf {
-  background-image: linear-gradient(to left , rgba(12, 9, 9, 0.555)) , url(../registro/imagnes2/fondo5.png);
+  background-image: linear-gradient(to left , rgba(12, 9, 9, 0.555)) , url(../imagenes/fondo1.png);
   background-repeat: no-repeat;
   background-position: 100%;
   padding: 11%;
